@@ -237,5 +237,3 @@ return loading ? <div>Loading...</div> : <div>Data loaded</div>;
 ---
 
 # End of Guide ✨
-
-If you want me to provide the **full `fetcher` source code again** or any other help, just ask!
